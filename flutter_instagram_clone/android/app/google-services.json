@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "953515890346",
+    "firebase_url": "https://instagram-clon-d3904.firebaseio.com",
+    "project_id": "instagram-clon-d3904",
+    "storage_bucket": "instagram-clon-d3904.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953515890346:android:0346b3de640df4209de2d3",
+        "android_client_info": {
+          "package_name": "com.example.flutter_instagram_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "953515890346-sphhj42aodash0fc88qtt2g09qmatsqd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_instagram_clone",
+            "certificate_hash": "2492fb888ddee9b5e217ca6e8576a4e063929d0c"
+          }
+        },
+        {
+          "client_id": "953515890346-okrv9p7hun8gblsv5nda1p4ntur4nr4h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaH8yn7AmJI-Mas8SHI-xqb3UF-uQcr74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "953515890346-okrv9p7hun8gblsv5nda1p4ntur4nr4h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
